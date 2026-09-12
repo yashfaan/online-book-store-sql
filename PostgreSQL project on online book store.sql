@@ -76,8 +76,6 @@ select * from books order by stock limit 1 ;
 -- 11) Calculate the total revenue generated from all orders:
 select sum(total_amount) as revenue from orders;
 
--- Advance Questions : 
-
 -- 1) Retrieve the total number of books sold for each genre:
 
 select * from orders;
