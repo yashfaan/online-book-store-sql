@@ -1,2 +1,22 @@
-# online-book-store-sql
-End-to-end PostgreSQL project for analyzing online book store sales, customers, orders, and revenue.
+# End-to-End SQL Portfolio Project
+
+## Project Overview
+
+## Business Problem
+
+## Dataset
+
+## Database Schema
+
+## SQL Analysis
+
+## Key Business Questions
+
+## Key Insights
+
+## SQL Concepts Used
+
+## Tools & Technologies
+- PostgreSQL
+
+## Project Structure
